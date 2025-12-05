@@ -11,4 +11,4 @@ La fonctionnalité principale qui impactera la jouabilité sera le paramétrage 
 Dans ce projet, nous voulons explorer une **diversité esthétique** (les images des puzzles et les différents backgrounds) ainsi que la **manipulation de tableaux** (dans la programmation).
 
 ## Moodboard
-!("./references/moodboard.png")
+![Moodboard](./reference/moodboard_tp4_interactivite.png)
