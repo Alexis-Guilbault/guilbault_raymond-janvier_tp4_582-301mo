@@ -1,6 +1,45 @@
-[gd_scene load_steps=2 format=3 uid="uid://csu77d7jcemu5"]
+[gd_scene load_steps=3 format=3 uid="uid://csu77d7jcemu5"]
 
 [ext_resource type="Script" uid="uid://dnaqm7de3wmut" path="res://scripts/settings.gd" id="1_5j88b"]
 
+[sub_resource type="LabelSettings" id="LabelSettings_5j88b"]
+font_size = 72
+
 [node name="Settings" type="Node2D"]
 script = ExtResource("1_5j88b")
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+color = Color(0.281002, 0.12318, 7.21961e-08, 1)
+polygon = PackedVector2Array(0, 0, 1920, 0, 1920, 1080, 0, 1080)
+
+[node name="Label" type="Label" parent="."]
+offset_left = 60.0
+offset_top = 125.0
+offset_right = 452.0
+offset_bottom = 224.0
+text = "DIFFICULTÉ"
+label_settings = SubResource("LabelSettings_5j88b")
+
+[node name="Label2" type="Label" parent="."]
+offset_left = 60.0
+offset_top = 350.0
+offset_right = 458.0
+offset_bottom = 449.0
+text = "CASSE-TÊTE"
+label_settings = SubResource("LabelSettings_5j88b")
+
+[node name="Label3" type="Label" parent="."]
+offset_left = 60.0
+offset_top = 575.0
+offset_right = 452.0
+offset_bottom = 674.0
+text = "FOND"
+label_settings = SubResource("LabelSettings_5j88b")
+
+[node name="Label4" type="Label" parent="."]
+offset_left = 60.0
+offset_top = 800.0
+offset_right = 452.0
+offset_bottom = 899.0
+text = "MUSIQUE"
+label_settings = SubResource("LabelSettings_5j88b")

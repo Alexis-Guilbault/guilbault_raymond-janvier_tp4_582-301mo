@@ -1,6 +1,42 @@
-[gd_scene load_steps=2 format=3 uid="uid://cy1f0g66kryju"]
+[gd_scene load_steps=8 format=3 uid="uid://cy1f0g66kryju"]
 
 [ext_resource type="Script" uid="uid://bxvy7vkcyfkhk" path="res://scripts/initialisation_jeu.gd" id="1_bumhs"]
+[ext_resource type="PackedScene" uid="uid://csu77d7jcemu5" path="res://scenes/pieces/settings.tscn" id="2_2hyvg"]
+[ext_resource type="PackedScene" uid="uid://bd38klemohgya" path="res://scenes/objets/puzzle.tscn" id="3_ab81g"]
+[ext_resource type="PackedScene" uid="uid://dedalyebvd3xa" path="res://scenes/objets/timer.tscn" id="4_j6whs"]
+[ext_resource type="Texture2D" uid="uid://bmk5cysheai1c" path="res://assets/images/placeholder_tasse_cafe.png" id="5_j6whs"]
+[ext_resource type="Texture2D" uid="uid://bwmqw7n6xi2wy" path="res://assets/images/placeholder_feuillle.jpg" id="6_olrvl"]
+[ext_resource type="Texture2D" uid="uid://ymjstj5fsvuv" path="res://assets/images/placeholder_telephone.png" id="7_olrvl"]
 
 [node name="Puzzle" type="Node2D"]
 script = ExtResource("1_bumhs")
+
+[node name="Settings" parent="." instance=ExtResource("2_2hyvg")]
+position = Vector2(0, 1080)
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+position = Vector2(107, 148)
+scale = Vector2(0.716146, 0.727778)
+color = Color(0, 0, 0, 0.392157)
+polygon = PackedVector2Array(0, 0, 1920, 0, 1920, 1080, 0, 1080)
+
+[node name="Puzzle" parent="." instance=ExtResource("3_ab81g")]
+position = Vector2(122, 162)
+
+[node name="Timer" parent="." instance=ExtResource("4_j6whs")]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(13, -14)
+scale = Vector2(0.75, 0.75)
+texture = ExtResource("5_j6whs")
+
+[node name="PlaceholderFeuillle" type="Sprite2D" parent="."]
+position = Vector2(814, -299)
+rotation = 3.14159
+texture = ExtResource("6_olrvl")
+
+[node name="PlaceholderTelephone" type="Sprite2D" parent="."]
+position = Vector2(1842.87, 227.415)
+rotation = -0.890118
+scale = Vector2(1.65906, 1.28357)
+texture = ExtResource("7_olrvl")
