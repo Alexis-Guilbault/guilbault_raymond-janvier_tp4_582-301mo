@@ -1,6 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://csu77d7jcemu5"]
+[gd_scene load_steps=4 format=3 uid="uid://csu77d7jcemu5"]
 
 [ext_resource type="Script" uid="uid://dnaqm7de3wmut" path="res://scripts/settings.gd" id="1_5j88b"]
+[ext_resource type="Texture2D" uid="uid://pwgdck26acns" path="res://assets/images/placeholder_puzzle_incroyablee.jpg" id="2_a1lsb"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_5j88b"]
 font_size = 72
@@ -12,7 +13,9 @@ script = ExtResource("1_5j88b")
 color = Color(0.281002, 0.12318, 7.21961e-08, 1)
 polygon = PackedVector2Array(0, 0, 1920, 0, 1920, 1080, 0, 1080)
 
-[node name="Label" type="Label" parent="."]
+[node name="difficulte" type="Node2D" parent="."]
+
+[node name="Label" type="Label" parent="difficulte"]
 offset_left = 60.0
 offset_top = 125.0
 offset_right = 452.0
@@ -20,7 +23,32 @@ offset_bottom = 224.0
 text = "DIFFICULTÉ"
 label_settings = SubResource("LabelSettings_5j88b")
 
-[node name="Label2" type="Label" parent="."]
+[node name="difficulte5" type="Line2D" parent="difficulte"]
+position = Vector2(292, 0)
+points = PackedVector2Array(90, 243, 90, 334)
+
+[node name="barre1" type="Line2D" parent="difficulte"]
+position = Vector2(292, 0)
+points = PackedVector2Array(-203, 285, 385, 285)
+
+[node name="difficulte4" type="Line2D" parent="difficulte"]
+position = Vector2(584, 0)
+points = PackedVector2Array(90, 243, 90, 334)
+
+[node name="difficulte3" type="Line2D" parent="difficulte"]
+position = Vector2(438, 0)
+points = PackedVector2Array(90, 243, 90, 334)
+
+[node name="difficulte2" type="Line2D" parent="difficulte"]
+position = Vector2(146, 0)
+points = PackedVector2Array(90, 243, 90, 334)
+
+[node name="difficulte1" type="Line2D" parent="difficulte"]
+points = PackedVector2Array(90, 243, 90, 334)
+
+[node name="casse-tete" type="Node2D" parent="."]
+
+[node name="Label2" type="Label" parent="casse-tete"]
 offset_left = 60.0
 offset_top = 350.0
 offset_right = 458.0
@@ -28,7 +56,13 @@ offset_bottom = 449.0
 text = "CASSE-TÊTE"
 label_settings = SubResource("LabelSettings_5j88b")
 
-[node name="Label3" type="Label" parent="."]
+[node name="puzzle1" type="Line2D" parent="casse-tete"]
+position = Vector2(0, 229)
+points = PackedVector2Array(90, 243, 90, 334)
+
+[node name="fond" type="Node2D" parent="."]
+
+[node name="Label3" type="Label" parent="fond"]
 offset_left = 60.0
 offset_top = 575.0
 offset_right = 452.0
@@ -36,10 +70,40 @@ offset_bottom = 674.0
 text = "FOND"
 label_settings = SubResource("LabelSettings_5j88b")
 
-[node name="Label4" type="Label" parent="."]
+[node name="fond1" type="Line2D" parent="fond"]
+position = Vector2(0, 451)
+points = PackedVector2Array(90, 243, 90, 334)
+
+[node name="musique" type="Node2D" parent="."]
+
+[node name="Label4" type="Label" parent="musique"]
 offset_left = 60.0
 offset_top = 800.0
 offset_right = 452.0
 offset_bottom = 899.0
 text = "MUSIQUE"
 label_settings = SubResource("LabelSettings_5j88b")
+
+[node name="barre4" type="Line2D" parent="musique"]
+position = Vector2(138.352, 676)
+scale = Vector2(0.259868, 1)
+points = PackedVector2Array(-203, 285, 385, 285)
+
+[node name="musique1" type="Line2D" parent="musique"]
+position = Vector2(0, 674)
+points = PackedVector2Array(90, 243, 90, 334)
+
+[node name="musique2" type="Line2D" parent="musique"]
+position = Vector2(146, 674)
+points = PackedVector2Array(90, 243, 90, 334)
+
+[node name="Polygon2D2" type="Polygon2D" parent="."]
+position = Vector2(879, 303)
+scale = Vector2(0.517216, 0.525617)
+color = Color(0, 0, 0, 0.392157)
+polygon = PackedVector2Array(0, 0, 1920, 0, 1920, 1080, 0, 1080)
+
+[node name="PlaceholderPuzzleIncroyablee" type="Sprite2D" parent="."]
+position = Vector2(1374.67, 587)
+scale = Vector2(0.722222, 0.722222)
+texture = ExtResource("2_a1lsb")

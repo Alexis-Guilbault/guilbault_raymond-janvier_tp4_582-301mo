@@ -1,5 +1,12 @@
 extends Node2D
 
+var choice = 1
+## Choices
+# 1 = difficulté
+# 2 = image puzzle
+# 3 = image fond
+# 4 = musique
+
 var difficulty = 1
 ## Difficulty Settings
 # 1 = 4x4, 4 minutes
@@ -14,14 +21,14 @@ var puzzle_image = 1
 # 1 = ???
 # 2 = ???
 # 3 = ???
-var puzzle_image_setting = [1, 2, 3]
+var puzzle_image_setting = [1]
 
 var background_image = 1
 ## Background Image Settings
 # 1 = ???
 # 2 = ???
 # 3 = ???
-var background_image_setting = [1, 2, 3]
+var background_image_setting = [1]
 
 var music_choice = 1
 ## Background Music Settings

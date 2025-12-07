@@ -6207,7 +6207,6 @@ animations = [{
 script = ExtResource("1_7e5u7")
 
 [node name="4x4" type="Node2D" parent="."]
-visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(168, 94.5)
@@ -6290,7 +6289,6 @@ sprite_frames = SubResource("SpriteFrames_6orq2")
 animation = &"placeholder"
 
 [node name="8x8" type="Node2D" parent="."]
-visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(84, 47)
@@ -6549,7 +6547,6 @@ position = Vector2(1260, 709)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
 [node name="12x12" type="Node2D" parent="."]
-visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(56, 32)
@@ -7128,7 +7125,6 @@ position = Vector2(1288, 724.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
 [node name="16x16" type="Node2D" parent="."]
-visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(121, -10)
