@@ -6296,31 +6296,31 @@ visible = false
 position = Vector2(84, 47)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D3" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece1_2" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(252, 47)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D4" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece1_3" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(420, 47)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D5" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece1_4" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(588, 47)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D6" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece1_5" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(756, 47)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D7" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece1_6" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(924, 47)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D8" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece1_7" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1092, 47)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D9" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece1_8" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1260, 47)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
@@ -6328,31 +6328,31 @@ sprite_frames = SubResource("SpriteFrames_f7kbi")
 position = Vector2(84, 141)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D11" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece2_2" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(252, 141)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D12" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece2_3" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(420, 141)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D13" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece2_4" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(588, 141)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D14" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece2_5" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(756, 141)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D15" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece2_6" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(924, 141)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D16" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece2_7" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1092, 141)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D17" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece2_8" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1260, 141)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
@@ -6360,31 +6360,31 @@ sprite_frames = SubResource("SpriteFrames_f7kbi")
 position = Vector2(84, 235)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D19" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece3_2" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(252, 235)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D20" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece3_3" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(420, 235)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D21" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece3_4" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(588, 235)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D22" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece3_5" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(756, 235)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D23" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece3_6" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(924, 235)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D24" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece3_7" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1092, 235)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D25" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece3_8" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1260, 235)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
@@ -6392,31 +6392,31 @@ sprite_frames = SubResource("SpriteFrames_f7kbi")
 position = Vector2(84, 329)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D27" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece4_2" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(252, 329)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D28" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece4_3" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(420, 329)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D29" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece4_4" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(588, 329)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D30" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece4_5" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(756, 329)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D31" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece4_6" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(924, 329)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D32" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece4_7" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1092, 329)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D33" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece4_8" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1260, 329)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
@@ -6424,31 +6424,31 @@ sprite_frames = SubResource("SpriteFrames_f7kbi")
 position = Vector2(84, 424)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D35" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece5_2" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(252, 424)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D36" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece5_3" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(420, 424)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D37" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece5_4" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(588, 424)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D38" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece5_5" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(756, 424)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D39" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece5_6" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(924, 424)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D40" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece5_7" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1092, 424)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D41" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece5_8" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1260, 424)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
@@ -6456,31 +6456,31 @@ sprite_frames = SubResource("SpriteFrames_f7kbi")
 position = Vector2(84, 520)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D43" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece6_2" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(252, 520)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D44" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece6_3" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(420, 520)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D45" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece6_4" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(588, 520)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D46" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece6_5" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(756, 520)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D47" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece6_6" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(924, 520)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D48" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece6_7" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1092, 520)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D49" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece6_8" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1260, 520)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
@@ -6488,31 +6488,31 @@ sprite_frames = SubResource("SpriteFrames_f7kbi")
 position = Vector2(84, 614)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D51" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece7_2" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(252, 614)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D52" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece7_3" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(420, 614)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D53" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece7_4" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(588, 614)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D54" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece7_5" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(756, 614)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D55" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece7_6" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(924, 614)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D56" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece7_7" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1092, 614)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D57" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece7_8" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1260, 614)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
@@ -6520,31 +6520,31 @@ sprite_frames = SubResource("SpriteFrames_f7kbi")
 position = Vector2(84, 709)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D59" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece8_2" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(252, 709)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D60" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece8_3" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(420, 709)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D61" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece8_4" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(588, 709)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D62" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece8_5" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(756, 709)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D63" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece8_6" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(924, 709)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D64" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece8_7" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1092, 709)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
-[node name="AnimatedSprite2D65" type="AnimatedSprite2D" parent="8x8"]
+[node name="piece8_8" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(1260, 709)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
@@ -6555,47 +6555,47 @@ visible = false
 position = Vector2(56, 32)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D4" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece1_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 32)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D5" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece1_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 32)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D6" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece1_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 32)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D7" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece1_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 32)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D8" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece1_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 32)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D9" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece1_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 31.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D10" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece1_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 31.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D11" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece1_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 31.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D12" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece1_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 31.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D13" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece1_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 31.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D14" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece1_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 31.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -6603,47 +6603,47 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(56, 95)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D16" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece2_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 95)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D17" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece2_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 95)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D18" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece2_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 95)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D19" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece2_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 95)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D20" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece2_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 95)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D21" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece2_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 94.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D22" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece2_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 94.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D23" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece2_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 94.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D24" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece2_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 94.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D25" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece2_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 94.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D26" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece2_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 94.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -6651,47 +6651,47 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(56, 158)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D28" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece3_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 158)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D29" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece3_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 158)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D30" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece3_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 158)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D31" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece3_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 158)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D32" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece3_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 158)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D33" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece3_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 157.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D34" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece3_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 157.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D35" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece3_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 157.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D36" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece3_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 157.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D37" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece3_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 157.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D38" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece3_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 157.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -6699,47 +6699,47 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(56, 221)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D40" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece4_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 221)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D41" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece4_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 221)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D42" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece4_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 221)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D43" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece4_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 221)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D44" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece4_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 221)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D45" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece4_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 220.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D46" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece4_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 220.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D47" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece4_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 220.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D48" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece4_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 220.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D49" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece4_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 220.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D50" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece4_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 220.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -6747,47 +6747,47 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(56, 284)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D52" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece5_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 284)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D53" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece5_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 284)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D54" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece5_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 284)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D55" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece5_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 284)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D56" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece5_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 284)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D57" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece5_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 283.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D58" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece5_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 283.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D59" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece5_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 283.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D60" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece5_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 283.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D61" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece5_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 283.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D62" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece5_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 283.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -6795,47 +6795,47 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(56, 347)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D64" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece6_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 347)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D65" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece6_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 347)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D66" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece6_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 347)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D67" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece6_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 347)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D68" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece6_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 347)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D69" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece6_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 346.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D70" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece6_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 346.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D71" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece6_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 346.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D72" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece6_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 346.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D73" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece6_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 346.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D74" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece6_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 346.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -6843,47 +6843,47 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(56, 410)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D76" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece7_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 410)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D77" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece7_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 410)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D78" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece7_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 410)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D79" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece7_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 410)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D80" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece7_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 410)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D81" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece7_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 409.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D82" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece7_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 409.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D83" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece7_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 409.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D84" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece7_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 409.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D85" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece7_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 409.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D86" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece7_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 409.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -6891,47 +6891,47 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(56, 473)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D88" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece8_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 473)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D89" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece8_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 473)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D90" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece8_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 473)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D91" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece8_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 473)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D92" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece8_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 473)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D93" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece8_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 472.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D94" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece8_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 472.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D95" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece8_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 472.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D96" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece8_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 472.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D97" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece8_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 472.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D98" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece8_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 472.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -6939,47 +6939,47 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(56, 536)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D100" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece9_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 536)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D101" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece9_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 536)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D102" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece9_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 536)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D103" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece9_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 536)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D104" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece9_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 536)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D105" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece9_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 535.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D106" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece9_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 535.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D107" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece9_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 535.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D108" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece9_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 535.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D109" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece9_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 535.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D110" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece9_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 535.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -6987,47 +6987,47 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(56, 599)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D112" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece10_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 599)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D113" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece10_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 599)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D114" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece10_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 599)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D115" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece10_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 599)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D116" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece10_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 599)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D117" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece10_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 598.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D118" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece10_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 598.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D119" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece10_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 598.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D120" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece10_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 598.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D121" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece10_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 598.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D122" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece10_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 598.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -7035,47 +7035,47 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(56, 662)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D124" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece11_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 662)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D125" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece11_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 662)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D126" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece11_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 662)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D127" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece11_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 662)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D128" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece11_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 662)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D129" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece11_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 661.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D130" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece11_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 661.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D131" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece11_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 661.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D132" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece11_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 661.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D133" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece11_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 661.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D134" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece11_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 661.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -7083,47 +7083,47 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(56, 725)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D136" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece12_2" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(168, 725)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D137" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece12_3" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(280, 725)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D138" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece12_4" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(392, 725)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D139" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece12_5" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(504, 725)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D140" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece12_6" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(616, 725)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D141" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece12_7" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(728, 724.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D142" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece12_8" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(840, 724.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D143" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece12_9" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(952, 724.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D144" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece12_10" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1064, 724.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D145" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece12_11" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1176, 724.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
-[node name="AnimatedSprite2D146" type="AnimatedSprite2D" parent="12x12"]
+[node name="piece12_12" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(1288, 724.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
@@ -7135,77 +7135,77 @@ position = Vector2(121, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D5" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D6" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D7" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D8" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D9" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D10" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D11" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D12" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D13" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D14" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D15" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D16" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D17" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D18" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D19" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece1_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, -10)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -7215,77 +7215,77 @@ position = Vector2(121, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D21" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D22" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D23" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D24" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D25" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D26" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D27" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D28" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D29" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D30" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D31" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D32" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D33" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D34" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D35" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece2_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 37)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -7295,77 +7295,77 @@ position = Vector2(121, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D37" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D38" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D39" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D40" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D41" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D42" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D43" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D44" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D45" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D46" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D47" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D48" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D49" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D50" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D51" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece3_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 84)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -7375,77 +7375,77 @@ position = Vector2(121, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D53" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D54" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D55" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D56" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D57" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D58" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D59" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D60" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D61" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D62" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D63" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D64" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D65" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D66" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D67" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece4_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 131)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -7455,77 +7455,77 @@ position = Vector2(121, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D69" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D70" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D71" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D72" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D73" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D74" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D75" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D76" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D77" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D78" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D79" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D80" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D81" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D82" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D83" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece5_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 178)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -7535,77 +7535,77 @@ position = Vector2(121, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D85" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D86" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D87" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D88" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D89" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D90" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D91" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D92" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D93" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D94" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D95" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D96" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D97" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D98" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D99" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece6_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 225)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -7615,77 +7615,77 @@ position = Vector2(121, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D101" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D102" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D103" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D104" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D105" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D106" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D107" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D108" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D109" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D110" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D111" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D112" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D113" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D114" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D115" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece7_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 272)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -7695,77 +7695,77 @@ position = Vector2(121, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D117" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D118" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D119" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D120" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D121" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D122" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D123" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D124" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D125" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D126" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D127" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D128" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D129" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D130" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D131" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece8_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 319)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -7775,77 +7775,77 @@ position = Vector2(121, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D133" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D134" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D135" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D136" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D137" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D138" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D139" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D140" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D141" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D142" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D143" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D144" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D145" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D146" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D147" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece9_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 366)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -7855,77 +7855,77 @@ position = Vector2(121, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D149" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D150" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D151" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D152" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D153" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D154" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D155" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D156" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D157" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D158" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D159" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D160" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D161" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D162" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D163" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece10_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 413)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -7935,77 +7935,77 @@ position = Vector2(121, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D165" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D166" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D167" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D168" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D169" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D170" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D171" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D172" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D173" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D174" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D175" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D176" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D177" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D178" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D179" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece11_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 460)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -8015,77 +8015,77 @@ position = Vector2(121, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D181" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D182" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D183" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D184" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D185" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D186" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D187" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D188" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D189" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D190" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D191" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D192" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D193" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D194" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D195" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece12_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 507)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -8095,77 +8095,77 @@ position = Vector2(121, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D197" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D198" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D199" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D200" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D201" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D202" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D203" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D204" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D205" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D206" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D207" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D208" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D209" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D210" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D211" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece13_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 554)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -8175,77 +8175,77 @@ position = Vector2(121, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D213" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D214" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D215" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D216" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D217" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D218" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D219" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D220" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D221" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D222" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D223" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D224" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D225" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D226" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D227" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece14_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 601)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -8255,77 +8255,77 @@ position = Vector2(121, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D229" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D230" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D231" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D232" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D233" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D234" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D235" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D236" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D237" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D238" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D239" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D240" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D241" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D242" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D243" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece15_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 648)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -8335,77 +8335,77 @@ position = Vector2(121, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D245" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_2" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(205, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D246" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_3" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(289, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D247" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_4" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(373, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D248" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_5" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(457, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D249" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_6" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(541, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D250" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_7" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(625, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D251" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_8" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(709, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D252" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_9" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(793, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D253" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_10" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(877, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D254" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_11" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(961, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D255" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_12" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1045, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D256" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_13" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1129, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D257" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_14" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1213, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D258" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_15" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1297, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
-[node name="AnimatedSprite2D259" type="AnimatedSprite2D" parent="16x16"]
+[node name="piece16_16" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(1381, 695)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
@@ -8416,79 +8416,79 @@ offset = Vector2(-79, 33.5)
 position = Vector2(33.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D6" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D7" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D8" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D9" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D10" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D11" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D12" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D13" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D14" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D15" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D16" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D17" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D18" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D19" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D20" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D21" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D22" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D23" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D24" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece1_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 18.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -8496,79 +8496,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D26" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D27" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D28" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D29" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D30" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D31" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D32" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D33" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D34" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D35" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D36" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D37" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D38" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D39" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D40" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D41" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D42" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D43" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D44" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece2_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 55.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -8576,79 +8576,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D46" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D47" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D48" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D49" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D50" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D51" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D52" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D53" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D54" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D55" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D56" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D57" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D58" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D59" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D60" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D61" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D62" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D63" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D64" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece3_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 92.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -8656,79 +8656,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D66" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D67" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D68" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D69" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D70" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D71" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D72" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D73" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D74" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D75" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D76" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D77" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D78" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D79" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D80" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D81" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D82" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D83" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D84" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece4_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 129.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -8736,79 +8736,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D86" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D87" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D88" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D89" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D90" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D91" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D92" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D93" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D94" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D95" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D96" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D97" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D98" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D99" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D100" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D101" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D102" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D103" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D104" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece5_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 166.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -8816,79 +8816,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D106" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D107" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D108" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D109" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D110" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D111" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D112" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D113" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D114" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D115" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D116" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D117" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D118" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D119" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D120" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D121" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D122" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D123" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D124" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece6_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 203.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -8896,79 +8896,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D126" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D127" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D128" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D129" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D130" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D131" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D132" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D133" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D134" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D135" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D136" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D137" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D138" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D139" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D140" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D141" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D142" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D143" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D144" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece7_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 240.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -8976,79 +8976,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D146" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D147" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D148" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D149" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D150" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D151" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D152" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D153" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D154" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D155" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D156" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D157" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D158" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D159" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D160" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D161" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D162" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D163" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D164" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece8_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 277.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9056,79 +9056,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D166" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D167" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D168" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D169" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D170" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D171" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D172" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D173" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D174" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D175" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D176" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D177" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D178" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D179" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D180" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D181" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D182" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D183" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D184" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece9_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 314.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9136,79 +9136,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D186" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D187" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D188" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D189" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D190" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D191" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D192" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D193" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D194" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D195" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D196" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D197" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D198" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D199" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D200" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D201" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D202" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D203" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D204" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece10_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 351.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9216,79 +9216,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D206" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D207" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D208" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D209" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D210" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D211" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D212" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D213" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D214" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D215" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D216" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D217" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D218" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D219" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D220" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D221" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D222" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D223" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D224" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece11_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 388.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9296,79 +9296,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D226" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D227" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D228" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D229" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D230" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D231" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D232" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D233" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D234" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D235" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D236" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D237" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D238" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D239" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D240" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D241" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D242" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D243" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D244" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece12_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 425.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9376,79 +9376,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D246" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D247" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D248" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D249" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D250" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D251" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D252" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D253" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D254" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D255" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D256" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D257" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D258" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D259" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D260" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D261" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D262" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D263" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D264" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece13_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 462.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9456,79 +9456,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D266" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D267" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D268" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D269" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D270" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D271" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D272" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D273" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D274" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D275" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D276" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D277" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D278" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D279" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D280" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D281" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D282" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D283" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D284" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece14_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 499.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9536,79 +9536,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D286" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D287" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D288" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D289" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D290" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D291" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D292" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D293" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D294" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D295" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D296" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D297" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D298" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D299" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D300" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D301" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D302" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D303" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D304" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece15_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 536.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9616,79 +9616,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D306" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D307" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D308" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D309" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D310" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D311" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D312" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D313" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D314" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D315" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D316" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D317" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D318" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D319" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D320" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D321" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D322" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D323" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D324" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece16_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 573.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9696,79 +9696,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D326" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D327" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D328" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D329" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D330" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D331" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D332" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D333" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D334" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D335" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D336" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D337" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D338" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D339" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D340" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D341" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D342" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D343" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D344" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece17_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 610.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9776,79 +9776,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D346" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D347" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D348" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D349" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D350" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D351" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D352" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D353" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D354" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D355" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D356" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D357" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D358" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D359" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D360" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D361" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D362" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D363" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D364" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece18_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 647.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9856,79 +9856,79 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D366" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D367" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D368" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D369" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D370" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D371" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D372" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D373" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D374" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D375" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D376" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D377" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D378" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D379" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D380" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D381" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D382" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D383" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D384" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece19_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 684.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
@@ -9936,78 +9936,78 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 position = Vector2(33.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D386" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_2" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(100.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D387" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_3" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(167.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D388" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_4" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(234.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D389" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_5" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(301.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D390" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_6" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(368.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D391" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_7" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(435.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D392" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_8" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(502.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D393" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_9" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(569.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D394" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_10" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(636.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D395" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_11" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(703.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D396" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_12" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(770.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D397" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_13" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(837.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D398" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_14" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(904.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D399" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_15" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(971.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D400" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_16" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1038.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D401" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_17" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1105.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D402" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_18" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1172.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D403" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_19" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1239.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
 
-[node name="AnimatedSprite2D404" type="AnimatedSprite2D" parent="20x20"]
+[node name="piece20_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
