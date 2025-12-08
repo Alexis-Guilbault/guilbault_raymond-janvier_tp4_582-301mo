@@ -35,3 +35,91 @@ var music_choice = 1
 # 1 = Type A
 # 2 = Type B
 var music_setting = [1, 2]
+
+@onready var labels = [$"./difficulte/Label", $"./casse-tete/Label2", $"./fond/Label3", $"./musique/Label4"]
+@onready var difficulty_bars = [$"./difficulte/difficulte1", $"./difficulte/difficulte2", $"./difficulte/difficulte3", $"./difficulte/difficulte4", $"./difficulte/difficulte5"]
+@onready var puzzle_bars = [$"./casse-tete/puzzle1"]
+@onready var background_bars = [$"./fond/fond1"]
+@onready var music_bars = [$"./musique/musique1", $"./musique/musique2"]
+
+func _input(_event) -> void:
+	if Input.is_action_just_pressed("Select"):
+		get_tree().change_scene_to_file("res://scenes/pieces/jeu_puzzle.tscn")
+	
+	if Input.is_action_just_pressed("Pause"):
+		get_tree().change_scene_to_file("res://scenes/pieces/menu.tscn")
+	
+	if Input.is_action_just_pressed("Up"):
+		choice -= 1
+		if choice < 1:
+			choice = 4
+	
+	if Input.is_action_just_pressed("Down"):
+		choice += 1
+		if choice > 4:
+			choice = 1
+	
+	if Input.is_action_just_pressed("Left"):
+		match choice:
+			1: 
+				if difficulty > 1:
+					difficulty -= 1
+			2:
+				if puzzle_image > 1:
+					puzzle_image -= 1
+			3:
+				if background_image > 1:
+					background_image -= 1
+			4:
+				if music_choice > 1:
+					music_choice -= 1
+	
+	if Input.is_action_just_pressed("Right"):
+		match choice:
+			1: 
+				if difficulty < difficulty_setting.size():
+					difficulty += 1
+			2:
+				if puzzle_image < puzzle_image_setting.size():
+					puzzle_image += 1
+			3:
+				if background_image < background_image_setting.size():
+					background_image += 1
+			4:
+				if music_choice < music_setting.size():
+					music_choice += 1
+
+func _process(_delta: float) -> void:
+	if get_tree().current_scene.name != "Settings" :
+		queue_free()
+		print(difficulty)
+	
+	for label_index in labels:
+		if labels.find(label_index) + 1 == choice:
+			label_index.label_settings.font_color = Color.RED
+		else:
+			label_index.label_settings.font_color = Color.WHITE
+	
+	for dif_bars in difficulty_bars:
+		if difficulty_bars.find(dif_bars) + 1 == difficulty:
+			dif_bars.default_color = Color.RED
+		else:
+			dif_bars.default_color = Color.WHITE
+	
+	for puz_bars in puzzle_bars:
+		if puzzle_bars.find(puz_bars) + 1 == puzzle_image:
+			puz_bars.default_color = Color.RED
+		else:
+			puz_bars.default_color = Color.WHITE
+	
+	for back_bars in background_bars:
+		if background_bars.find(back_bars) + 1 == background_image:
+			back_bars.default_color = Color.RED
+		else:
+			back_bars.default_color = Color.WHITE
+	
+	for mus_bars in music_bars:
+		if music_bars.find(mus_bars) + 1 == music_choice:
+			mus_bars.default_color = Color.RED
+		else:
+			mus_bars.default_color = Color.WHITE
