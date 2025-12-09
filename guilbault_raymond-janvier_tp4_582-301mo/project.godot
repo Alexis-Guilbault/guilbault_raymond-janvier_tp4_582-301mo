@@ -10,15 +10,26 @@ config_version=5
 
 [application]
 
-config/name="guilbault_raymond-janvier_tp4_582-301mo"
+config/name="Cozy Puzzle"
 run/main_scene="uid://c3dpy7kmth6a7"
 config/features=PackedStringArray("4.4", "GL Compatibility")
+boot_splash/show_image=false
+boot_splash/fullsize=false
 config/icon="res://icon.svg"
+
+[audio]
+
+driver/mix_rate=48000
+
+[autoload]
+
+Config="*res://scripts/config.gd"
 
 [display]
 
 window/size/viewport_width=1920
 window/size/viewport_height=1080
+window/size/mode=3
 window/stretch/mode="viewport"
 
 [input]

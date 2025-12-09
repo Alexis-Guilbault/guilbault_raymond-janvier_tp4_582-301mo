@@ -1,6 +1,23 @@
-[gd_scene load_steps=2 format=3 uid="uid://dedalyebvd3xa"]
+[gd_scene load_steps=4 format=3 uid="uid://dedalyebvd3xa"]
 
 [ext_resource type="Script" uid="uid://7c1imfbmkqkq" path="res://scripts/timer.gd" id="1_qkf50"]
+[ext_resource type="Texture2D" uid="uid://ymjstj5fsvuv" path="res://assets/images/placeholder_telephone.png" id="2_u84cm"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_21xxe"]
+font_size = 64
 
 [node name="Timer" type="Node2D"]
 script = ExtResource("1_qkf50")
+
+[node name="PlaceholderTelephone" type="Sprite2D" parent="."]
+scale = Vector2(1.65906, 1.28357)
+texture = ExtResource("2_u84cm")
+
+[node name="Label" type="Label" parent="."]
+offset_left = -141.0
+offset_top = -127.0
+offset_right = 113.0
+offset_bottom = -39.0
+rotation = 1.5708
+text = "00:00:00"
+label_settings = SubResource("LabelSettings_21xxe")

@@ -44,6 +44,10 @@ var music_setting = [1, 2]
 
 func _input(_event) -> void:
 	if Input.is_action_just_pressed("Select"):
+		Config.difficulty = difficulty
+		Config.puzzle_image = puzzle_image
+		Config.background_image = background_image
+		Config.music_choice = music_choice
 		get_tree().change_scene_to_file("res://scenes/pieces/jeu_puzzle.tscn")
 	
 	if Input.is_action_just_pressed("Pause"):
@@ -90,10 +94,6 @@ func _input(_event) -> void:
 					music_choice += 1
 
 func _process(_delta: float) -> void:
-	if get_tree().current_scene.name != "Settings" :
-		queue_free()
-		print(difficulty)
-	
 	for label_index in labels:
 		if labels.find(label_index) + 1 == choice:
 			label_index.label_settings.font_color = Color.RED
