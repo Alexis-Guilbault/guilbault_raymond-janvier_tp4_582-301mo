@@ -1,84 +1,77 @@
-[gd_scene load_steps=888 format=3 uid="uid://bd38klemohgya"]
+[gd_scene load_steps=893 format=3 uid="uid://bd38klemohgya"]
 
 [ext_resource type="Script" uid="uid://bftovxk7by6h2" path="res://scripts/puzzle.gd" id="1_7e5u7"]
 [ext_resource type="Texture2D" uid="uid://pwgdck26acns" path="res://assets/images/placeholder_puzzle_incroyablee.jpg" id="2_j4sf5"]
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_4gxuc"]
-atlas = ExtResource("2_j4sf5")
-region = Rect2(0, 0, 336, 189)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_b1a7v"]
-atlas = ExtResource("2_j4sf5")
-region = Rect2(336, 0, 336, 189)
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_1kxbl"]
-atlas = ExtResource("2_j4sf5")
-region = Rect2(672, 0, 336, 189)
+[ext_resource type="Texture2D" uid="uid://bx7ks345lpfp4" path="res://assets/images/hover_x5.png" id="3_b1a7v"]
+[ext_resource type="Texture2D" uid="uid://dwusgoxej0akt" path="res://assets/images/select_x5.png" id="4_1kxbl"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_nv73y"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(1008, 0, 336, 189)
+region = Rect2(0, 0, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_ukvkk"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(0, 189, 336, 189)
+region = Rect2(336, 0, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_dtc73"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(336, 189, 336, 189)
+region = Rect2(672, 0, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_0tmxc"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(672, 189, 336, 189)
+region = Rect2(1008, 0, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_4gdtu"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(1008, 189, 336, 189)
+region = Rect2(0, 189, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_i4kmt"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(0, 378, 336, 189)
+region = Rect2(336, 189, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_cbrp5"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(336, 378, 336, 189)
+region = Rect2(672, 189, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_3dcia"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(672, 378, 336, 189)
+region = Rect2(1008, 189, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_mfbs6"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(1008, 378, 336, 189)
+region = Rect2(0, 378, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_27j61"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(0, 567, 336, 189)
+region = Rect2(336, 378, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_m08bc"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(336, 567, 336, 189)
+region = Rect2(672, 378, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_jryup"]
 atlas = ExtResource("2_j4sf5")
-region = Rect2(672, 567, 336, 189)
+region = Rect2(1008, 378, 336, 189)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_uinru"]
 atlas = ExtResource("2_j4sf5")
+region = Rect2(0, 567, 336, 189)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_6orq2"]
+atlas = ExtResource("2_j4sf5")
+region = Rect2(336, 567, 336, 189)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_f7kbi"]
+atlas = ExtResource("2_j4sf5")
+region = Rect2(672, 567, 336, 189)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ps1m0"]
+atlas = ExtResource("2_j4sf5")
 region = Rect2(1008, 567, 336, 189)
 
-[sub_resource type="SpriteFrames" id="SpriteFrames_6orq2"]
+[sub_resource type="SpriteFrames" id="SpriteFrames_7isx7"]
 animations = [{
 "frames": [{
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_4gxuc")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_b1a7v")
-}, {
-"duration": 1.0,
-"texture": SubResource("AtlasTexture_1kxbl")
-}, {
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_nv73y")
 }, {
@@ -117,9 +110,45 @@ animations = [{
 }, {
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_uinru")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_6orq2")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_f7kbi")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ps1m0")
 }],
 "loop": true,
 "name": &"placeholder",
+"speed": 5.0
+}]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_0tlrx"]
+atlas = ExtResource("3_b1a7v")
+region = Rect2(67, 0, 67, 37)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_n63fm"]
+atlas = ExtResource("4_1kxbl")
+region = Rect2(0, 0, 67, 37)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_6orq2"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_0tlrx")
+}],
+"loop": true,
+"name": &"hover",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_n63fm")
+}],
+"loop": true,
+"name": &"select",
 "speed": 5.0
 }]
 
@@ -6205,90 +6234,99 @@ animations = [{
 
 [node name="Puzzle" type="Node2D"]
 script = ExtResource("1_7e5u7")
+metadata/_edit_horizontal_guides_ = [-1.0, 37.0, 37.0, 47.0]
+metadata/_edit_vertical_guides_ = [67.0, 84.0]
 
 [node name="4x4" type="Node2D" parent="."]
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(168, 94.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece1_2" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(504, 94.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece1_3" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(840, 94.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece1_4" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(1176, 94.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece2_1" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(168, 283.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece2_2" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(504, 283.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece2_3" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(840, 283.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece2_4" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(1176, 283.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece3_1" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(168, 473.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece3_2" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(504, 473.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece3_3" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(840, 473.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece3_4" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(1176, 473.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece4_1" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(168, 662.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece4_2" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(504, 662.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece4_3" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(840, 662.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
 [node name="piece4_4" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(1176, 662.5)
-sprite_frames = SubResource("SpriteFrames_6orq2")
+sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
+[node name="hover" type="AnimatedSprite2D" parent="4x4"]
+position = Vector2(168, 94.5)
+scale = Vector2(5.01, 5.1)
+sprite_frames = SubResource("SpriteFrames_6orq2")
+animation = &"hover"
+
 [node name="8x8" type="Node2D" parent="."]
+visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(84, 47)
@@ -6546,7 +6584,14 @@ sprite_frames = SubResource("SpriteFrames_f7kbi")
 position = Vector2(1260, 709)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
+[node name="hover" type="AnimatedSprite2D" parent="8x8"]
+position = Vector2(84, 47)
+scale = Vector2(2.5, 2.55)
+sprite_frames = SubResource("SpriteFrames_6orq2")
+animation = &"hover"
+
 [node name="12x12" type="Node2D" parent="."]
+visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(56, 32)
@@ -7124,7 +7169,14 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(1288, 724.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
+[node name="hover" type="AnimatedSprite2D" parent="12x12"]
+position = Vector2(56, 32)
+scale = Vector2(1.675, 1.75)
+sprite_frames = SubResource("SpriteFrames_6orq2")
+animation = &"hover"
+
 [node name="16x16" type="Node2D" parent="."]
+visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(121, -10)
@@ -8402,11 +8454,19 @@ sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(-79, 33.5)
 
 [node name="piece16_16" type="AnimatedSprite2D" parent="16x16"]
-position = Vector2(1381, 695)
+position = Vector2(81, -36)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
-offset = Vector2(-79, 33.5)
+offset = Vector2(1221, 764.5)
+
+[node name="hover" type="AnimatedSprite2D" parent="16x16"]
+position = Vector2(121, -10)
+scale = Vector2(1.25, 1.28)
+sprite_frames = SubResource("SpriteFrames_6orq2")
+animation = &"hover"
+offset = Vector2(-63.2, 26.2125)
 
 [node name="20x20" type="Node2D" parent="."]
+visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(33.5, 18.5)
@@ -10007,3 +10067,8 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 [node name="piece20_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
+
+[node name="hover" type="AnimatedSprite2D" parent="20x20"]
+position = Vector2(34, 19)
+sprite_frames = SubResource("SpriteFrames_6orq2")
+animation = &"hover"

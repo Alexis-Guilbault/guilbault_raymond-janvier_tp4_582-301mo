@@ -5,7 +5,7 @@ var minutes = difficulty * 4
 var secondes = 60
 var frames = 99
 
-func _process(delta: float) -> void:
+func _process(_delta: float) -> void:
 	if $"../../Jeu".game_ready == true:
 		frames -= 1
 	
