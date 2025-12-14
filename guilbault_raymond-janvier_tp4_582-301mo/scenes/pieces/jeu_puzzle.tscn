@@ -1,9 +1,10 @@
-[gd_scene load_steps=7 format=3 uid="uid://cy1f0g66kryju"]
+[gd_scene load_steps=8 format=3 uid="uid://cy1f0g66kryju"]
 
 [ext_resource type="Script" uid="uid://bxvy7vkcyfkhk" path="res://scripts/initialisation_jeu.gd" id="1_bumhs"]
 [ext_resource type="PackedScene" uid="uid://bd38klemohgya" path="res://scenes/objets/puzzle.tscn" id="3_ab81g"]
 [ext_resource type="PackedScene" uid="uid://dedalyebvd3xa" path="res://scenes/objets/timer.tscn" id="4_j6whs"]
 [ext_resource type="Texture2D" uid="uid://bmk5cysheai1c" path="res://assets/images/placeholder_tasse_cafe.png" id="5_j6whs"]
+[ext_resource type="PackedScene" uid="uid://dcybwxujd2ip8" path="res://scenes/objets/pause.tscn" id="6_j6whs"]
 [ext_resource type="Texture2D" uid="uid://bwmqw7n6xi2wy" path="res://assets/images/placeholder_feuillle.jpg" id="6_olrvl"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_olrvl"]
@@ -43,3 +44,6 @@ offset_right = 1065.0
 offset_bottom = 126.0
 text = "Puzzle : ##"
 label_settings = SubResource("LabelSettings_olrvl")
+
+[node name="Pause" parent="." instance=ExtResource("6_j6whs")]
+process_mode = 3

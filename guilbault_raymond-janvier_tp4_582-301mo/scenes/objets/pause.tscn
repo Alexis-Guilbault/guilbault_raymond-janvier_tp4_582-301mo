@@ -1,0 +1,56 @@
+[gd_scene load_steps=7 format=3 uid="uid://dcybwxujd2ip8"]
+
+[ext_resource type="Script" uid="uid://b0bxw5t07yjpd" path="res://pause.gd" id="1_hb7yi"]
+[ext_resource type="Texture2D" uid="uid://pwgdck26acns" path="res://assets/images/placeholder_puzzle_incroyablee.jpg" id="2_7mrbb"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_efnwy"]
+font_size = 128
+
+[sub_resource type="LabelSettings" id="LabelSettings_mu0wr"]
+font_size = 48
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_enydm"]
+atlas = ExtResource("2_7mrbb")
+region = Rect2(0, 0, 1344, 756)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ij53s"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_enydm")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="Pause" type="Node2D"]
+process_mode = 2
+script = ExtResource("1_hb7yi")
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+color = Color(0, 0, 0, 0.392157)
+polygon = PackedVector2Array(-3, -1, 1936, -3, 1936, 1100, -22, 1105)
+
+[node name="Label" type="Label" parent="."]
+offset_left = 786.0
+offset_top = 18.0
+offset_right = 1186.0
+offset_bottom = 193.0
+text = "PAUSE"
+label_settings = SubResource("LabelSettings_efnwy")
+
+[node name="Label2" type="Label" parent="."]
+offset_left = 759.0
+offset_top = 798.0
+offset_right = 1159.0
+offset_bottom = 973.0
+text = "X pour continuer
+Z pour quitter"
+label_settings = SubResource("LabelSettings_mu0wr")
+horizontal_alignment = 1
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(977, 461)
+scale = Vector2(0.75, 0.75)
+sprite_frames = SubResource("SpriteFrames_ij53s")

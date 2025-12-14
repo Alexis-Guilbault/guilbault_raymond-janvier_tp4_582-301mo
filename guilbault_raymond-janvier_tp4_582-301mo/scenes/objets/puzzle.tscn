@@ -6319,6 +6319,12 @@ position = Vector2(1176, 662.5)
 sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"placeholder"
 
+[node name="hook" type="AnimatedSprite2D" parent="4x4"]
+position = Vector2(168, 94.5)
+scale = Vector2(5.01, 5.1)
+sprite_frames = SubResource("SpriteFrames_6orq2")
+animation = &"hover"
+
 [node name="hover" type="AnimatedSprite2D" parent="4x4"]
 position = Vector2(168, 94.5)
 scale = Vector2(5.01, 5.1)
@@ -6326,7 +6332,6 @@ sprite_frames = SubResource("SpriteFrames_6orq2")
 animation = &"hover"
 
 [node name="8x8" type="Node2D" parent="."]
-visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(84, 47)
@@ -6584,6 +6589,12 @@ sprite_frames = SubResource("SpriteFrames_f7kbi")
 position = Vector2(1260, 709)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 
+[node name="hook" type="AnimatedSprite2D" parent="8x8"]
+position = Vector2(84, 47)
+scale = Vector2(2.5, 2.55)
+sprite_frames = SubResource("SpriteFrames_6orq2")
+animation = &"hover"
+
 [node name="hover" type="AnimatedSprite2D" parent="8x8"]
 position = Vector2(84, 47)
 scale = Vector2(2.5, 2.55)
@@ -6591,7 +6602,6 @@ sprite_frames = SubResource("SpriteFrames_6orq2")
 animation = &"hover"
 
 [node name="12x12" type="Node2D" parent="."]
-visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(56, 32)
@@ -7169,6 +7179,12 @@ sprite_frames = SubResource("SpriteFrames_ps1m0")
 position = Vector2(1288, 724.5)
 sprite_frames = SubResource("SpriteFrames_ps1m0")
 
+[node name="hook" type="AnimatedSprite2D" parent="12x12"]
+position = Vector2(56, 32)
+scale = Vector2(1.675, 1.75)
+sprite_frames = SubResource("SpriteFrames_6orq2")
+animation = &"hover"
+
 [node name="hover" type="AnimatedSprite2D" parent="12x12"]
 position = Vector2(56, 32)
 scale = Vector2(1.675, 1.75)
@@ -7176,7 +7192,6 @@ sprite_frames = SubResource("SpriteFrames_6orq2")
 animation = &"hover"
 
 [node name="16x16" type="Node2D" parent="."]
-visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(121, -10)
@@ -8458,6 +8473,13 @@ position = Vector2(81, -36)
 sprite_frames = SubResource("SpriteFrames_0tlrx")
 offset = Vector2(1221, 764.5)
 
+[node name="hook" type="AnimatedSprite2D" parent="16x16"]
+position = Vector2(121, -10)
+scale = Vector2(1.25, 1.28)
+sprite_frames = SubResource("SpriteFrames_6orq2")
+animation = &"hover"
+offset = Vector2(-63.2, 26.2125)
+
 [node name="hover" type="AnimatedSprite2D" parent="16x16"]
 position = Vector2(121, -10)
 scale = Vector2(1.25, 1.28)
@@ -8466,7 +8488,6 @@ animation = &"hover"
 offset = Vector2(-63.2, 26.2125)
 
 [node name="20x20" type="Node2D" parent="."]
-visible = false
 
 [node name="piece1_1" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(33.5, 18.5)
@@ -10067,6 +10088,11 @@ sprite_frames = SubResource("SpriteFrames_n63fm")
 [node name="piece20_20" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(1306.5, 721.5)
 sprite_frames = SubResource("SpriteFrames_n63fm")
+
+[node name="hook" type="AnimatedSprite2D" parent="20x20"]
+position = Vector2(34, 19)
+sprite_frames = SubResource("SpriteFrames_6orq2")
+animation = &"hover"
 
 [node name="hover" type="AnimatedSprite2D" parent="20x20"]
 position = Vector2(34, 19)
