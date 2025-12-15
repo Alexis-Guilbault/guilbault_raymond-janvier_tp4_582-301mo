@@ -1,8 +1,10 @@
-[gd_scene load_steps=11 format=3 uid="uid://csu77d7jcemu5"]
+[gd_scene load_steps=17 format=3 uid="uid://csu77d7jcemu5"]
 
 [ext_resource type="Script" uid="uid://dnaqm7de3wmut" path="res://scripts/settings.gd" id="1_5j88b"]
-[ext_resource type="Texture2D" uid="uid://pwgdck26acns" path="res://assets/images/placeholder_puzzle_incroyablee.jpg" id="2_a1lsb"]
+[ext_resource type="Texture2D" uid="uid://b8bipcxwhnd34" path="res://assets/images/puzzle_frog.png" id="2_orx31"]
 [ext_resource type="AudioStream" uid="uid://tklq0her1hko" path="res://assets/audio/sons/option.wav" id="3_cu35h"]
+[ext_resource type="Texture2D" uid="uid://brntbtyhgv81k" path="res://assets/images/puzzle_degrade_trois_couleurs.png" id="3_up1og"]
+[ext_resource type="Texture2D" uid="uid://bc8ji8gubr2sw" path="res://assets/images/tapis.png" id="4_mja4o"]
 [ext_resource type="AudioStream" uid="uid://b10wt7p45ai8q" path="res://assets/audio/sons/pause_gameover.wav" id="4_w85f7"]
 [ext_resource type="AudioStream" uid="uid://vahkseujto1o" path="res://assets/audio/sons/select.wav" id="5_tn0gb"]
 
@@ -11,6 +13,45 @@ font_size = 72
 
 [sub_resource type="LabelSettings" id="LabelSettings_cu35h"]
 font_size = 72
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_333oh"]
+atlas = ExtResource("2_orx31")
+region = Rect2(0, 0, 1344, 756)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_frwv8"]
+atlas = ExtResource("3_up1og")
+region = Rect2(0, 0, 1344, 756)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7dsx0"]
+atlas = ExtResource("4_mja4o")
+region = Rect2(0, 0, 1344, 756)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_vkreb"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_333oh")
+}],
+"loop": true,
+"name": &"puzzle01",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_frwv8")
+}],
+"loop": true,
+"name": &"puzzle02",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_7dsx0")
+}],
+"loop": true,
+"name": &"puzzle03",
+"speed": 5.0
+}]
 
 [sub_resource type="LabelSettings" id="LabelSettings_htwx8"]
 font_size = 72
@@ -71,8 +112,21 @@ offset_bottom = 449.0
 text = "CASSE-TÊTE"
 label_settings = SubResource("LabelSettings_cu35h")
 
+[node name="barre5" type="Line2D" parent="casse-tete"]
+position = Vector2(189.5, 230)
+scale = Vector2(0.5, 1)
+points = PackedVector2Array(-203, 285, 385, 285)
+
 [node name="puzzle1" type="Line2D" parent="casse-tete"]
 position = Vector2(0, 229)
+points = PackedVector2Array(90, 243, 90, 334)
+
+[node name="puzzle2" type="Line2D" parent="casse-tete"]
+position = Vector2(146, 229)
+points = PackedVector2Array(90, 243, 90, 334)
+
+[node name="puzzle3" type="Line2D" parent="casse-tete"]
+position = Vector2(292, 229)
 points = PackedVector2Array(90, 243, 90, 334)
 
 [node name="Polygon2D2" type="Polygon2D" parent="casse-tete"]
@@ -81,10 +135,11 @@ scale = Vector2(0.517216, 0.525617)
 color = Color(0, 0, 0, 0.392157)
 polygon = PackedVector2Array(0, 0, 1920, 0, 1920, 1080, 0, 1080)
 
-[node name="Preview_Puzzle" type="Sprite2D" parent="casse-tete"]
+[node name="Preview_Puzzle" type="AnimatedSprite2D" parent="casse-tete"]
 position = Vector2(1374.67, 339)
 scale = Vector2(0.722222, 0.722222)
-texture = ExtResource("2_a1lsb")
+sprite_frames = SubResource("SpriteFrames_vkreb")
+animation = &"puzzle03"
 
 [node name="fond" type="Node2D" parent="."]
 

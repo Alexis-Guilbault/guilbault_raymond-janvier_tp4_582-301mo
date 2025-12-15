@@ -1,8 +1,10 @@
-[gd_scene load_steps=9 format=3 uid="uid://dcybwxujd2ip8"]
+[gd_scene load_steps=13 format=3 uid="uid://dcybwxujd2ip8"]
 
 [ext_resource type="Script" uid="uid://b0bxw5t07yjpd" path="res://pause.gd" id="1_hb7yi"]
-[ext_resource type="Texture2D" uid="uid://pwgdck26acns" path="res://assets/images/placeholder_puzzle_incroyablee.jpg" id="2_7mrbb"]
+[ext_resource type="Texture2D" uid="uid://b8bipcxwhnd34" path="res://assets/images/puzzle_frog.png" id="2_ij53s"]
 [ext_resource type="AudioStream" uid="uid://b10wt7p45ai8q" path="res://assets/audio/sons/pause_gameover.wav" id="3_mu0wr"]
+[ext_resource type="Texture2D" uid="uid://brntbtyhgv81k" path="res://assets/images/puzzle_degrade_trois_couleurs.png" id="3_wv48d"]
+[ext_resource type="Texture2D" uid="uid://bc8ji8gubr2sw" path="res://assets/images/tapis.png" id="4_ct1cy"]
 [ext_resource type="AudioStream" uid="uid://tklq0her1hko" path="res://assets/audio/sons/option.wav" id="4_enydm"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_efnwy"]
@@ -11,18 +13,42 @@ font_size = 128
 [sub_resource type="LabelSettings" id="LabelSettings_mu0wr"]
 font_size = 48
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_enydm"]
-atlas = ExtResource("2_7mrbb")
+[sub_resource type="AtlasTexture" id="AtlasTexture_w51ri"]
+atlas = ExtResource("2_ij53s")
+region = Rect2(0, 0, 1344, 756)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_te2id"]
+atlas = ExtResource("3_wv48d")
+region = Rect2(0, 0, 1344, 756)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_b1u53"]
+atlas = ExtResource("4_ct1cy")
 region = Rect2(0, 0, 1344, 756)
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_ij53s"]
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_enydm")
+"texture": SubResource("AtlasTexture_w51ri")
 }],
 "loop": true,
-"name": &"default",
+"name": &"puzzle01",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_te2id")
+}],
+"loop": true,
+"name": &"puzzle02",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_b1u53")
+}],
+"loop": true,
+"name": &"puzzle03",
 "speed": 5.0
 }]
 
@@ -56,6 +82,7 @@ horizontal_alignment = 1
 position = Vector2(977, 461)
 scale = Vector2(0.75, 0.75)
 sprite_frames = SubResource("SpriteFrames_ij53s")
+animation = &"puzzle03"
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("3_mu0wr")

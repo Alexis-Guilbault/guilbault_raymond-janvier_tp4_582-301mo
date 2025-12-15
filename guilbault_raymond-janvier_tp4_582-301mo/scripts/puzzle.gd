@@ -41,6 +41,13 @@ func _ready() -> void:
 		shuffle_number.pop_at(place)
 	
 	for piece in result:
+		match Config.puzzle_image:
+			1:
+				piece.animation = "puzzle01"
+			2:
+				piece.animation = "puzzle02"
+			3:
+				piece.animation = "puzzle03"
 		piece.frame = puzzle_pieces.find(piece)
 	
 	hook.animation = "select"

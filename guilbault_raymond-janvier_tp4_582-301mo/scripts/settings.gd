@@ -18,10 +18,10 @@ var difficulty_setting = [1, 2, 3, 4, 5]
 
 var puzzle_image = 1
 ## Puzzle Image Settings
-# 1 = ???
-# 2 = ???
-# 3 = ???
-var puzzle_image_setting = [1]
+# 1 = dessin
+# 2 = dégradé
+# 3 = tapis
+var puzzle_image_setting = [1, 2, 3]
 
 var background_image = 1
 ## Background Image Settings
@@ -38,7 +38,7 @@ var music_setting = [1, 2]
 
 @onready var labels = [$"./difficulte/Label", $"./casse-tete/Label2", $"./fond/Label3", $"./musique/Label4"]
 @onready var difficulty_bars = [$"./difficulte/difficulte1", $"./difficulte/difficulte2", $"./difficulte/difficulte3", $"./difficulte/difficulte4", $"./difficulte/difficulte5"]
-@onready var puzzle_bars = [$"./casse-tete/puzzle1"]
+@onready var puzzle_bars = [$"./casse-tete/puzzle1", $"./casse-tete/puzzle2", $"./casse-tete/puzzle3"]
 @onready var background_bars = [$"./fond/fond1"]
 @onready var music_bars = [$"./musique/musique1", $"./musique/musique2"]
 
@@ -130,3 +130,11 @@ func _process(_delta: float) -> void:
 			mus_bars.default_color = Color.RED
 		else:
 			mus_bars.default_color = Color.WHITE
+	
+	match puzzle_image:
+		1:
+			$"./casse-tete/Preview_Puzzle".animation = "puzzle01"
+		2:
+			$"./casse-tete/Preview_Puzzle".animation = "puzzle02"
+		3:
+			$"./casse-tete/Preview_Puzzle".animation = "puzzle03"

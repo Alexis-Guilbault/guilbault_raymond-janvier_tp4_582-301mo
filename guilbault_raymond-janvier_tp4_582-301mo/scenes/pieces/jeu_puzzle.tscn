@@ -1,13 +1,15 @@
-[gd_scene load_steps=10 format=3 uid="uid://cy1f0g66kryju"]
+[gd_scene load_steps=12 format=3 uid="uid://cy1f0g66kryju"]
 
 [ext_resource type="Script" uid="uid://bxvy7vkcyfkhk" path="res://scripts/initialisation_jeu.gd" id="1_bumhs"]
+[ext_resource type="Texture2D" uid="uid://b6j6g5x7jap4f" path="res://assets/images/desk.png" id="2_50s1e"]
 [ext_resource type="PackedScene" uid="uid://bd38klemohgya" path="res://scenes/objets/puzzle.tscn" id="3_ab81g"]
 [ext_resource type="PackedScene" uid="uid://dedalyebvd3xa" path="res://scenes/objets/timer.tscn" id="4_j6whs"]
-[ext_resource type="Texture2D" uid="uid://bmk5cysheai1c" path="res://assets/images/placeholder_tasse_cafe.png" id="5_j6whs"]
+[ext_resource type="Texture2D" uid="uid://yvddog14p24x" path="res://assets/images/chocolat_chaud.png" id="5_ka6gx"]
 [ext_resource type="PackedScene" uid="uid://dcybwxujd2ip8" path="res://scenes/objets/pause.tscn" id="6_j6whs"]
-[ext_resource type="Texture2D" uid="uid://bwmqw7n6xi2wy" path="res://assets/images/placeholder_feuillle.jpg" id="6_olrvl"]
+[ext_resource type="Texture2D" uid="uid://wxk1bd2b2wmg" path="res://assets/images/feuille.png" id="6_qo8v8"]
 [ext_resource type="AudioStream" uid="uid://dh3n870bc5bh2" path="res://assets/audio/musique/M10HomeSourHome.mp3" id="7_olrvl"]
 [ext_resource type="AudioStream" uid="uid://bca6ro678edv8" path="res://assets/audio/musique/M11Battle6Climax.mp3" id="8_et4nj"]
+[ext_resource type="Texture2D" uid="uid://bm1m2q2a6e8hw" path="res://assets/images/post_it.png" id="10_ka6gx"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_olrvl"]
 font_size = 91
@@ -15,6 +17,10 @@ font_color = Color(0, 0, 0, 1)
 
 [node name="Jeu" type="Node2D"]
 script = ExtResource("1_bumhs")
+
+[node name="Desk" type="Sprite2D" parent="."]
+position = Vector2(960, 540)
+texture = ExtResource("2_50s1e")
 
 [node name="Polygon2D" type="Polygon2D" parent="."]
 position = Vector2(107, 148)
@@ -32,12 +38,12 @@ rotation = 5.57109
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(13, -14)
 scale = Vector2(0.75, 0.75)
-texture = ExtResource("5_j6whs")
+texture = ExtResource("5_ka6gx")
 
 [node name="PlaceholderFeuillle" type="Sprite2D" parent="."]
 position = Vector2(814, -299)
 rotation = 3.14159
-texture = ExtResource("6_olrvl")
+texture = ExtResource("6_qo8v8")
 
 [node name="labelPuzzle" type="Label" parent="."]
 offset_left = 596.0
@@ -52,6 +58,31 @@ process_mode = 3
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("7_olrvl")
+parameters/looping = true
 
 [node name="AudioStreamPlayer2" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("8_et4nj")
+parameters/looping = true
+
+[node name="PostIt" type="Sprite2D" parent="."]
+position = Vector2(1710, 728)
+scale = Vector2(1.5, 1.5)
+texture = ExtResource("10_ka6gx")
+
+[node name="Label" type="Label" parent="PostIt"]
+offset_left = -128.0
+offset_top = -120.0
+offset_right = 129.0
+offset_bottom = 163.0
+scale = Vector2(0.75, 0.75)
+text = "CREDITS
+Programmation et SFXs:
+Alexis Guilbault
+
+Visuels:
+Vicky Raymond-Janvier
+
+Musique (placeholder):
+Raphaël Lefebvre
+(De Corrupted World)"
+horizontal_alignment = 1

@@ -20,3 +20,11 @@ func _process(delta: float) -> void:
 		visible = true
 	else:
 		visible = false
+	
+	match Config.puzzle_image:
+		1:
+			$"AnimatedSprite2D".animation = "puzzle01"
+		2:
+			$"AnimatedSprite2D".animation = "puzzle02"
+		3:
+			$"AnimatedSprite2D".animation = "puzzle03"
