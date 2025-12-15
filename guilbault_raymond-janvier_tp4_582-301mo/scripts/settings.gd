@@ -48,20 +48,25 @@ func _input(_event) -> void:
 		Config.puzzle_image = puzzle_image
 		Config.background_image = background_image
 		Config.music_choice = music_choice
+		$"./AudioStreamPlayer3".play()
 		get_tree().change_scene_to_file("res://scenes/pieces/jeu_puzzle.tscn")
+		
 	
 	if Input.is_action_just_pressed("Pause"):
+		$"./AudioStreamPlayer2".play()
 		get_tree().change_scene_to_file("res://scenes/pieces/menu.tscn")
 	
 	if Input.is_action_just_pressed("Up"):
 		choice -= 1
 		if choice < 1:
 			choice = 4
+		$"./AudioStreamPlayer".play()
 	
 	if Input.is_action_just_pressed("Down"):
 		choice += 1
 		if choice > 4:
 			choice = 1
+		$"./AudioStreamPlayer".play()
 	
 	if Input.is_action_just_pressed("Left"):
 		match choice:
@@ -77,6 +82,7 @@ func _input(_event) -> void:
 			4:
 				if music_choice > 1:
 					music_choice -= 1
+		$"./AudioStreamPlayer3".play()
 	
 	if Input.is_action_just_pressed("Right"):
 		match choice:
@@ -92,6 +98,7 @@ func _input(_event) -> void:
 			4:
 				if music_choice < music_setting.size():
 					music_choice += 1
+		$"./AudioStreamPlayer3".play()
 
 func _process(_delta: float) -> void:
 	for label_index in labels:

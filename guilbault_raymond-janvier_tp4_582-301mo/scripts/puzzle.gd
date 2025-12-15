@@ -47,6 +47,7 @@ func _ready() -> void:
 
 func _process(_delta: float) -> void:
 	if result == puzzle_pieces:
+		$"./AudioStreamPlayer3".play()
 		get_tree().change_scene_to_file("res://scenes/pieces/victoire.tscn")
 	
 	if selected_pieces.size() >= 2:
@@ -58,6 +59,8 @@ func _process(_delta: float) -> void:
 			
 			puzzle_pieces[i1] = piece_switch2
 			puzzle_pieces[i2] = piece_switch1
+			
+			$"./AudioStreamPlayer2".play()
 			
 			selected_pieces.clear()
 	
@@ -73,6 +76,7 @@ func _process(_delta: float) -> void:
 
 func _input(_event: InputEvent) -> void:
 	if Input.is_action_just_pressed("Select"):
+		$"./AudioStreamPlayer".play()
 		selected_pieces.push_back(result[hovered_piece])
 	
 	if Input.is_action_just_pressed("Left"):

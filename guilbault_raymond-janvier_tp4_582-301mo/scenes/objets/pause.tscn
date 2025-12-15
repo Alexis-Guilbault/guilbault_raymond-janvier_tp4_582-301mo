@@ -1,7 +1,9 @@
-[gd_scene load_steps=7 format=3 uid="uid://dcybwxujd2ip8"]
+[gd_scene load_steps=9 format=3 uid="uid://dcybwxujd2ip8"]
 
 [ext_resource type="Script" uid="uid://b0bxw5t07yjpd" path="res://pause.gd" id="1_hb7yi"]
 [ext_resource type="Texture2D" uid="uid://pwgdck26acns" path="res://assets/images/placeholder_puzzle_incroyablee.jpg" id="2_7mrbb"]
+[ext_resource type="AudioStream" uid="uid://b10wt7p45ai8q" path="res://assets/audio/sons/pause_gameover.wav" id="3_mu0wr"]
+[ext_resource type="AudioStream" uid="uid://tklq0her1hko" path="res://assets/audio/sons/option.wav" id="4_enydm"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_efnwy"]
 font_size = 128
@@ -54,3 +56,9 @@ horizontal_alignment = 1
 position = Vector2(977, 461)
 scale = Vector2(0.75, 0.75)
 sprite_frames = SubResource("SpriteFrames_ij53s")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("3_mu0wr")
+
+[node name="AudioStreamPlayer2" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("4_enydm")

@@ -1,7 +1,10 @@
-[gd_scene load_steps=8 format=3 uid="uid://csu77d7jcemu5"]
+[gd_scene load_steps=11 format=3 uid="uid://csu77d7jcemu5"]
 
 [ext_resource type="Script" uid="uid://dnaqm7de3wmut" path="res://scripts/settings.gd" id="1_5j88b"]
 [ext_resource type="Texture2D" uid="uid://pwgdck26acns" path="res://assets/images/placeholder_puzzle_incroyablee.jpg" id="2_a1lsb"]
+[ext_resource type="AudioStream" uid="uid://tklq0her1hko" path="res://assets/audio/sons/option.wav" id="3_cu35h"]
+[ext_resource type="AudioStream" uid="uid://b10wt7p45ai8q" path="res://assets/audio/sons/pause_gameover.wav" id="4_w85f7"]
+[ext_resource type="AudioStream" uid="uid://vahkseujto1o" path="res://assets/audio/sons/select.wav" id="5_tn0gb"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_5j88b"]
 font_size = 72
@@ -133,3 +136,12 @@ X pour retourner au menu"
 label_settings = SubResource("LabelSettings_a1lsb")
 horizontal_alignment = 2
 vertical_alignment = 1
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("3_cu35h")
+
+[node name="AudioStreamPlayer2" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("4_w85f7")
+
+[node name="AudioStreamPlayer3" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("5_tn0gb")
