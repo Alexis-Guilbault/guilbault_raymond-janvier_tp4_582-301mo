@@ -23,4 +23,4 @@ Musique - Raphaël Lefebvre (Originalement de [Corrupted World](https://store.st
 ## Plateformes
 Compaible avec l'arcade en classe
 
-Disponible sur Itch.io : https://voltblade-games.itch.io/cozy-puzzle
+Disponible sur Itch.io : https://voltblade-games.itch.io/cozy-puzzle et via Github Pages : https://alexis-guilbault.github.io/guilbault_raymond-janvier_tp4_582-301mo/
