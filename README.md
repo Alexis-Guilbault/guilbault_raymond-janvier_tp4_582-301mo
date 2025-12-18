@@ -12,3 +12,10 @@ Dans ce projet, nous voulons explorer une **diversité esthétique** (les images
 
 ## Moodboard
 ![Moodboard](./reference/moodboard_tp4_interactivite.png)
+
+## Credits
+Programmation et Effets Sonores - Alexis Guilbault
+
+Visuels - Vicky Raymond-Janvier
+
+Musique - Raphaël Lefebvre (Originalement de [Corrupted World](https://store.steampowered.com/app/3660270/Corrupted_World/))
