@@ -46,12 +46,13 @@ rotation = 3.14159
 texture = ExtResource("6_qo8v8")
 
 [node name="labelPuzzle" type="Label" parent="."]
-offset_left = 596.0
+offset_left = 675.0
 offset_top = 1.0
-offset_right = 1065.0
+offset_right = 959.0
 offset_bottom = 126.0
-text = "Puzzle : ##"
+text = "Puzzle"
 label_settings = SubResource("LabelSettings_olrvl")
+horizontal_alignment = 1
 
 [node name="Pause" parent="." instance=ExtResource("6_j6whs")]
 process_mode = 3
@@ -82,7 +83,7 @@ Alexis Guilbault
 Visuels:
 Vicky Raymond-Janvier
 
-Musique (placeholder):
+Musique:
 Raphaël Lefebvre
 (De Corrupted World)"
 horizontal_alignment = 1

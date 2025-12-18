@@ -1,7 +1,7 @@
 extends Node2D
 
 var difficulty = Config.difficulty
-var minutes = difficulty * 4
+var minutes = (difficulty * 4 + difficulty) *2
 var secondes = 60
 var frames = 99
 

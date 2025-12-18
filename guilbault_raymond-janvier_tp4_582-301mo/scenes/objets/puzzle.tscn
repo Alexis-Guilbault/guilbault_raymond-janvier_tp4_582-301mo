@@ -18655,42 +18655,42 @@ sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"puzzle01"
 
 [node name="piece3_1" type="AnimatedSprite2D" parent="4x4"]
-position = Vector2(168, 473.5)
+position = Vector2(168, 472.5)
 sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"puzzle01"
 
 [node name="piece3_2" type="AnimatedSprite2D" parent="4x4"]
-position = Vector2(504, 473.5)
+position = Vector2(504, 472.5)
 sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"puzzle01"
 
 [node name="piece3_3" type="AnimatedSprite2D" parent="4x4"]
-position = Vector2(840, 473.5)
+position = Vector2(840, 472.5)
 sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"puzzle01"
 
 [node name="piece3_4" type="AnimatedSprite2D" parent="4x4"]
-position = Vector2(1176, 473.5)
+position = Vector2(1176, 472.5)
 sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"puzzle01"
 
 [node name="piece4_1" type="AnimatedSprite2D" parent="4x4"]
-position = Vector2(168, 662.5)
+position = Vector2(168, 661.5)
 sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"puzzle01"
 
 [node name="piece4_2" type="AnimatedSprite2D" parent="4x4"]
-position = Vector2(504, 662.5)
+position = Vector2(504, 661.5)
 sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"puzzle01"
 
 [node name="piece4_3" type="AnimatedSprite2D" parent="4x4"]
-position = Vector2(840, 662.5)
+position = Vector2(840, 661.5)
 sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"puzzle01"
 
 [node name="piece4_4" type="AnimatedSprite2D" parent="4x4"]
-position = Vector2(1176, 662.5)
+position = Vector2(1176, 661.5)
 sprite_frames = SubResource("SpriteFrames_7isx7")
 animation = &"puzzle01"
 
@@ -18869,162 +18869,162 @@ sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece5_1" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(84, 424)
+position = Vector2(84, 423)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece5_2" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(252, 424)
+position = Vector2(252, 423)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece5_3" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(420, 424)
+position = Vector2(420, 423)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece5_4" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(588, 424)
+position = Vector2(588, 423)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece5_5" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(756, 424)
+position = Vector2(756, 423)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece5_6" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(924, 424)
+position = Vector2(924, 423)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece5_7" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(1092, 424)
+position = Vector2(1092, 423)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece5_8" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(1260, 424)
+position = Vector2(1260, 423)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece6_1" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(84, 520)
+position = Vector2(84, 517)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece6_2" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(252, 520)
+position = Vector2(252, 517)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece6_3" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(420, 520)
+position = Vector2(420, 517)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece6_4" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(588, 520)
+position = Vector2(588, 517)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece6_5" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(756, 520)
+position = Vector2(756, 517)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece6_6" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(924, 520)
+position = Vector2(924, 517)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece6_7" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(1092, 520)
+position = Vector2(1092, 517)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece6_8" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(1260, 520)
+position = Vector2(1260, 517)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece7_1" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(84, 614)
+position = Vector2(84, 611)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece7_2" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(252, 614)
+position = Vector2(252, 611)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece7_3" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(420, 614)
+position = Vector2(420, 611)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece7_4" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(588, 614)
+position = Vector2(588, 611)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece7_5" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(756, 614)
+position = Vector2(756, 611)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece7_6" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(924, 614)
+position = Vector2(924, 611)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece7_7" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(1092, 614)
+position = Vector2(1092, 611)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece7_8" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(1260, 614)
+position = Vector2(1260, 611)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece8_1" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(84, 709)
+position = Vector2(84, 705)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece8_2" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(252, 709)
+position = Vector2(252, 705)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece8_3" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(420, 709)
+position = Vector2(420, 705)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece8_4" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(588, 709)
+position = Vector2(588, 705)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece8_5" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(756, 709)
+position = Vector2(756, 705)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece8_6" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(924, 709)
+position = Vector2(924, 705)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece8_7" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(1092, 709)
+position = Vector2(1092, 705)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 
 [node name="piece8_8" type="AnimatedSprite2D" parent="8x8"]
-position = Vector2(1260, 709)
+position = Vector2(1260, 705)
 sprite_frames = SubResource("SpriteFrames_f7kbi")
 animation = &"puzzle01"
 

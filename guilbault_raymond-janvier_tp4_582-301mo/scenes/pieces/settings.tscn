@@ -179,13 +179,13 @@ position = Vector2(146, 674)
 points = PackedVector2Array(90, 243, 90, 334)
 
 [node name="Label" type="Label" parent="."]
-offset_left = 1173.0
-offset_top = 674.0
-offset_right = 1826.0
-offset_bottom = 1021.0
-text = "↑ pour monter
-↓ pour descendre
-←→ pour changer l'option
+offset_left = 975.0
+offset_top = 666.0
+offset_right = 1870.0
+offset_bottom = 1013.0
+text = "HAUT pour monter
+BAS pour descendre
+GAUCHE-DROITE pour changer l'option
 Z pour commencer le puzzle
 X pour retourner au menu"
 label_settings = SubResource("LabelSettings_a1lsb")
