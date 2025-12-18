@@ -19,3 +19,8 @@ Programmation et Effets Sonores - Alexis Guilbault
 Visuels - Vicky Raymond-Janvier
 
 Musique - Raphaël Lefebvre (Originalement de [Corrupted World](https://store.steampowered.com/app/3660270/Corrupted_World/))
+
+## Plateformes
+Compaible avec l'arcade en classe
+
+Disponible sur Itch.io : https://voltblade-games.itch.io/cozy-puzzle
